@@ -13,8 +13,11 @@ En este video te muestro la evolución de ETI Patagonia. Tuvimos que cambiar, ad
 
 ¿Qué vas a encontrar dentro de la plataforma?
 📁 Aportes y Softwares: Herramientas listas para descargar.
+
 📱 Aplicaciones y Tutoriales: Guías paso a paso para tu aprendizaje.
+
 📰 Artículos: Contenido educativo e informativo de calidad.
+
 💬 Foro Exclusivo: Un espacio de debate e interacción para la comunidad.
 
 Regístrate hoy mismo y lleva tu aprendizaje al siguiente nivel. ¡No olvides darle like al video y suscribirte!
