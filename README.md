@@ -1,7 +1,7 @@
 # Nueva-plataforma-web-de-ETI-Patagonia
 El gran salto de ETI Patagonia 🌐 ¡Tuvimos que cambiar por el crecimiento de ETI Patagonia!  Descubre nuestra nueva plataforma web 🚀
 
-[![Ver en YouTube](https://img.shields.io/badge/▶_Ver_demo-YouTube-red)]([https://youtu.be/prZgfUD74zA](https://youtu.be/CZWZ4ZlsNz0))
+[![Demo en YouTube](https://img.shields.io/badge/▶_Ver_demo-YouTube-red)](https://youtu.be/CZWZ4ZlsNz0)
 [![ETI Patagonia evolucionó: Todo sobre nuestra nueva web](https://youtube.com)](https://youtu.be/CZWZ4ZlsNz0)
 
 En este video te muestro la evolución de ETI Patagonia. Tuvimos que cambiar, adaptarnos y crecer para ofrecerte una experiencia mucho mejor. Por eso, diseñamos una nueva plataforma web con registro de usuarios exclusivo para alumnos, docentes y resto de la comunidad separados, pero básicamente en la misma casa.
